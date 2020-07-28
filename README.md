@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Publish and referrals at [Canva](https://canva.com)
+- 🔭 I’m currently working on "Publish and referrals" at [Canva](https://canva.com)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=create1st&show_icons=true)
 
