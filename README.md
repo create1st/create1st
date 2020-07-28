@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on 🎨Publish and referrals at [Canva](https://canva.com)
 
