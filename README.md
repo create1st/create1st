@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on "Sign up" at [Canva](https://canva.com)
+- :broom: Clean Code
+- :memo: Java, Javascript, Node, SQL
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=create1st&show_icons=true)
 
