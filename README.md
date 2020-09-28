@@ -4,6 +4,8 @@
 - :broom: Clean Code
 - :memo: Java, Javascript, Node, SQL
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=create1st&layout=compact)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=create1st&show_icons=true)
 
 ![Profile views](https://gpvc.arturio.dev/create1st)  
