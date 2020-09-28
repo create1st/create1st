@@ -6,9 +6,9 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=create1st&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/create1st)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=create1st&layout=compact)
+
+![Profile views](https://gpvc.arturio.dev/create1st)
 
 <!--
 **create1st/create1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
