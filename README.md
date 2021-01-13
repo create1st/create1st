@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on "Sign up" at [Canva](https://canva.com)
 - :broom: Clean Code
 - :memo: Java, Javascript, Node, SQL
 
