@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - :broom: Clean Code, SOLID, TDD
-- :memo: Java, Javascript, Node, SQL, AWS
+- :memo: Java, Kotlin, Javascript, Node, SQL, AWS
 
 - find me also on: https://github.com/sgil-tyro
 
