@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 - :broom: Clean Code, SOLID, TDD
-- :memo: Java, Javascript, Node, SQL
+- :memo: Java, Javascript, Node, SQL, AWS
+
+- find me also on: https://github.com/sgil-tyro
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=create1st&show_icons=true)
 
